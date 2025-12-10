@@ -28,3 +28,7 @@ Notes
 
 # Security
 This tool can reveal potentially malicious code. Always inspect decoded output in a safe, sandboxed environment and do not run untrusted code on your host machine.
+
+
+# Important Note:
+- This tool only for education purpose only do not encourage any illegal activity, Make sure you use it responsibly and you respect laws, I'm not responsible for any misuse like use it for Cracking Software and any illegal usage.
