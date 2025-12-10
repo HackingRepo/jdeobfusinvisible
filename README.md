@@ -1,4 +1,3 @@
-```markdown
 This project is designed to undo deobfuscation of Hidden JS created by https://aem1k.com/invisible/encoder/.
 This is useful for malware analysis and reverse engineering.
 
@@ -29,4 +28,3 @@ Notes
 
 # Security
 This tool can reveal potentially malicious code. Always inspect decoded output in a safe, sandboxed environment and do not run untrusted code on your host machine.
-```
